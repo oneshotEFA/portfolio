@@ -1,4 +1,4 @@
-import React from "react";
+
 import SmallBox from "../componets/skillBox";
 
 export default function SkillsSection() {
