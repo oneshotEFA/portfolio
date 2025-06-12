@@ -1,4 +1,4 @@
-import React from "react";
+
 import img1 from "../assets/owner.jpeg";
 import { Typewriter } from "react-simple-typewriter";
 export default function HeroSection() {
