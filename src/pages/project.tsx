@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaPlus } from "react-icons/fa";
 import ProjectBox from "../componets/projectBox";
 import project1 from "../assets/project1.jpeg";
