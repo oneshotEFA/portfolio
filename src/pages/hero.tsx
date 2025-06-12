@@ -7,7 +7,7 @@ export default function HeroSection() {
       id="home"
       className="w-full min-h-screen flex items-center justify-center bg-[rgb(25,28,50)] overflow-hidden"
     >
-      <div className="container  px-4 flex flex-col md:flex-row items-center justify-between gap-10">
+      <div className="container mt-40 sm:mt-0 px-4 flex flex-col md:flex-row items-center justify-between gap-10">
         <div className="flex-1 space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold">
             <span className="block text-gray-300">Hello, I'm </span>
