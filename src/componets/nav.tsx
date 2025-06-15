@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="bg-gray-900 fixed w-full z-20">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <div className="text-3xl font-bold text-[rgb(84,184,229)] ">
-          Ephrem Mesfin
+          Eph
         </div>
         <ul className="hidden md:flex space-x-8 text-sm font-bold">
           <li>
